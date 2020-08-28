@@ -1,0 +1,34 @@
+{
+  "type": "panel",
+  "name": "ReactChartJsBarChart",
+  "id": "taiane-sb-94-grafana-react-chartjs-barchart-panel",
+  "info": {
+    "description": "grafana plugin",
+    "author": {
+      "name": "TaianeSB-94",
+      "url": ""
+    },
+    "keywords": ["grafana", "plugin"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/TaianeSB-94/grafana-react-chartjs-piechart-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/TaianeSB-94/grafana-react-chartjs-piechart-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
