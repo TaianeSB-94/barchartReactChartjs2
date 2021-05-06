@@ -1,4 +1,4 @@
-# Grafana BarChart (react-chartjs-2) - for WTF using
+# Grafana BarChart (react-chartjs-2)
 
 This is an example of visualizing a bar chart using [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2).
 
